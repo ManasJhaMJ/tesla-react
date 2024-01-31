@@ -1,0 +1,10 @@
+.contact {
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_1000,w_2232,c_fit,f_auto,q_auto:best/careers-get-involved");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0px;
+}
